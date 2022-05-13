@@ -1,0 +1,13 @@
+D:\ProjectGitHub\UdpProject\UpdProject\UpdProject\bin\Debug\netcoreapp3.1\UpdProjectClient.exe
+D:\ProjectGitHub\UdpProject\UpdProject\UpdProject\bin\Debug\netcoreapp3.1\UpdProjectClient.deps.json
+D:\ProjectGitHub\UdpProject\UpdProject\UpdProject\bin\Debug\netcoreapp3.1\UpdProjectClient.runtimeconfig.json
+D:\ProjectGitHub\UdpProject\UpdProject\UpdProject\bin\Debug\netcoreapp3.1\UpdProjectClient.runtimeconfig.dev.json
+D:\ProjectGitHub\UdpProject\UpdProject\UpdProject\bin\Debug\netcoreapp3.1\UpdProjectClient.dll
+D:\ProjectGitHub\UdpProject\UpdProject\UpdProject\bin\Debug\netcoreapp3.1\UpdProjectClient.pdb
+D:\ProjectGitHub\UdpProject\UpdProject\UpdProject\obj\Debug\netcoreapp3.1\UpdProjectClient.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjectGitHub\UdpProject\UpdProject\UpdProject\obj\Debug\netcoreapp3.1\UpdProjectClient.AssemblyInfoInputs.cache
+D:\ProjectGitHub\UdpProject\UpdProject\UpdProject\obj\Debug\netcoreapp3.1\UpdProjectClient.AssemblyInfo.cs
+D:\ProjectGitHub\UdpProject\UpdProject\UpdProject\obj\Debug\netcoreapp3.1\UpdProjectClient.csproj.CoreCompileInputs.cache
+D:\ProjectGitHub\UdpProject\UpdProject\UpdProject\obj\Debug\netcoreapp3.1\UpdProjectClient.dll
+D:\ProjectGitHub\UdpProject\UpdProject\UpdProject\obj\Debug\netcoreapp3.1\UpdProjectClient.pdb
+D:\ProjectGitHub\UdpProject\UpdProject\UpdProject\obj\Debug\netcoreapp3.1\UpdProjectClient.genruntimeconfig.cache
